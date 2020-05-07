@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# stef-next
+
+This is a [Next.js](https://nextjs.org/learn) app.
