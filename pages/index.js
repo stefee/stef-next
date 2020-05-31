@@ -11,13 +11,9 @@ export default function Home() {
         <h1>Stef's Website</h1>
         <p>Welcome!</p>
         <h2 id="writing">Writing</h2>
-        <p>
-          <a href="https://medium.com/condenastengineering/speedy-builds-with-docker-layer-caching-7ed590ac2fd1">Speedy Builds With Docker Layer Caching</a>
-        </p>
+        <p><a href="https://medium.com/condenastengineering/speedy-builds-with-docker-layer-caching-7ed590ac2fd1">Speedy Builds With Docker Layer Caching</a></p>
         <h2 id="talks">Talks</h2>
-        <p>
-          <a href="https://www.youtube.com/watch?v=AwfXypdYcv0">5 Things I Learned About Software Engineering From Watching Art Restoration Videos</a>
-        </p>
+        <p><a href="https://www.youtube.com/watch?v=AwfXypdYcv0">5 Things I Learned About Software Engineering From Watching Art Restoration Videos</a></p>
         <h2 id="software-projects">Software Projects</h2>
         <h3 id="renditions">renditions</h3>
         <p>JavaScript modules for implementing W3C-standard responsive images.</p>
@@ -48,14 +44,14 @@ export default function Home() {
         <p><a href="http://atelier.prod.cni.digital/">Storybook</a></p>
         <h3 id="web-marketing-sites-at-feral-interactive">web marketing sites at Feral Interactive</h3>
         <ul>
-        <li><a href="https://www.feralinteractive.com/en/games/lifeisstrange/">Life Is Strange for Mac and Linux</a></li>
-        <li><a href="https://www.feralinteractive.com/en/games/alienisolation/">Alien: Isolation for Mac and Linux</a></li>
-        <li><a href="https://www.feralinteractive.com/en/linux-games/f12015/">F1 2015 for Linux</a></li>
-        <li><a href="https://www.feralinteractive.com/en/games/dirtrally/">DiRT Rally for Mac and Linux</a></li>
-        <li><a href="https://www.feralinteractive.com/en/games/madmax/">Mad Max for Mac and Linux</a></li>
-        <li><a href="https://www.feralinteractive.com/en/games/companyofheroes2/">Company of Heroes 2 for Mac and Linux</a></li>
-        <li><a href="https://www.feralinteractive.com/en/games/gridautosport/">GRID Autosport for Mac and Linux</a></li>
-        <li><a href="https://www.feralinteractive.com/en/mac-games/medieval2/">Medieval II: Total War for Mac</a></li>
+          <li><a href="https://www.feralinteractive.com/en/games/lifeisstrange/">Life Is Strange for Mac and Linux</a></li>
+          <li><a href="https://www.feralinteractive.com/en/games/alienisolation/">Alien: Isolation for Mac and Linux</a></li>
+          <li><a href="https://www.feralinteractive.com/en/linux-games/f12015/">F1 2015 for Linux</a></li>
+          <li><a href="https://www.feralinteractive.com/en/games/dirtrally/">DiRT Rally for Mac and Linux</a></li>
+          <li><a href="https://www.feralinteractive.com/en/games/madmax/">Mad Max for Mac and Linux</a></li>
+          <li><a href="https://www.feralinteractive.com/en/games/companyofheroes2/">Company of Heroes 2 for Mac and Linux</a></li>
+          <li><a href="https://www.feralinteractive.com/en/games/gridautosport/">GRID Autosport for Mac and Linux</a></li>
+          <li><a href="https://www.feralinteractive.com/en/mac-games/medieval2/">Medieval II: Total War for Mac</a></li>
         </ul>
       </main>
 
