@@ -7,8 +7,9 @@ export default function Home() {
         <title>Stef's Website</title>
       </Head>
 
+      <h1>Stef's Website</h1>
+
       <main>
-        <h1>Stef's Website</h1>
         <p>Welcome!</p>
         <h2 id="writing">Writing</h2>
         <p><a href="https://medium.com/condenastengineering/speedy-builds-with-docker-layer-caching-7ed590ac2fd1">Speedy Builds With Docker Layer Caching</a></p>
