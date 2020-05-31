@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <p>Welcome!</p>
         <h2 id="writing">Writing</h2>
-        <p><a href="https://medium.com/condenastengineering/speedy-builds-with-docker-layer-caching-7ed590ac2fd1">Speedy Builds With Docker Layer Caching</a></p>
+        <p><a href="https://medium.com/condenastengineering/speedy-builds-with-docker-layer-caching-7ed590ac2fd1">Speedy builds with Docker Layer Caching</a></p>
         <h2 id="talks">Talks</h2>
         <p><a href="https://www.youtube.com/watch?v=AwfXypdYcv0">5 Things I Learned About Software Engineering From Watching Art Restoration Videos</a></p>
         <h2 id="software-projects">Software Projects</h2>
