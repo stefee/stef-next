@@ -43,6 +43,8 @@ export default function Home() {
         <p>&ldquo;A unified, scalable, digital design language for Condé Nast brands.&rdquo;</p>
         <p>Atelier is the React <a href="https://github.com/styled-components/styled-components">styled-components</a> library that feeds Condé Nast's international brand sites, and a living and evolving style guide to be used internally at Condé Nast HQ and by 3rd parties and brand licensees.</p>
         <p><a href="http://atelier.prod.cni.digital/">Storybook</a></p>
+        <h3 id="real-time-shock-wave-simulation">real-time shock wave simulation</h3>
+        <p>My research project in the final year of my degree was around simulating shock waves in real time using the Unity game engine. This was broadly considered to be an unsuccessful endeavour.</p>
         <h3 id="web-marketing-sites-at-feral-interactive">web marketing sites at Feral Interactive</h3>
         <ul>
           <li><a href="https://www.feralinteractive.com/en/games/lifeisstrange/">Life Is Strange for Mac and Linux</a></li>
