@@ -86,7 +86,7 @@ export default function Home() {
           color: inherit;
           text-decoration: none;
           background-color: #ffaaaa;
-          box-shadow: 0 -0.2rem #ffaaaa, 0 0.2rem #000;
+          box-shadow: 0 -0.1rem #ffaaaa, 0 0.2rem #000;
         }
 
         a:focus {
