@@ -36,14 +36,17 @@ export default function Home() {
         <p><a href="https://github.com/stefee/outerspace">Source</a></p>
         <h3 id="content-migrations-at-conde-nast">content migrations at Condé Nast</h3>
         <p><em>Flyway</em> is a system for migrating content from an existing CMS into Condé Nast's CMS. Content can be defined as articles, authors, categories, galleries, videos and images.</p>
-        <p>This system was used to migrate 20 <em>Vogue</em> and <em>GQ</em> websites managed by teams in 10 countries onto a single global web platform managed in London.</p>
-        <p><a href="https://stefee.github.io/flyway-manual/flyway.html">Flyway Documentation (mirror)</a></p>
+        <p>We implemented a "self-service" model to allow engineers to migrate content into our CMS without any intervention from the core team.</p>
+        <p>This system was used to migrate <em>Vogue</em> and <em>GQ</em> websites managed by 10 different market teams onto our web platform managed in London.</p>
+        <p><a href="https://stefee.github.io/flyway-manual">Flyway Manual (mirror)</a></p>
         <h3 id="design-systems-at-conde-nast">design systems at Condé Nast</h3>
         <p>&ldquo;A unified, scalable, digital design language for Condé Nast brands.&rdquo;</p>
-        <p><em>Atelier</em> is the React <a href="https://github.com/styled-components/styled-components">styled-components</a> library that feeds Condé Nast's international brand sites, and a living and evolving style guide to be used internally at Condé Nast HQ and by 3rd parties and brand licensees.</p>
+        <p><em>Atelier</em> is a React <a href="https://github.com/styled-components/styled-components">styled-components</a> library created for Condé Nast's brand sites. The library supports multiple brand identities and is used by a handful of different web applications.</p>
         <p><a href="http://atelier.prod.cni.digital/">Atelier Storybook</a></p>
+        <p><a href="https://www.gq-magazine.co.uk/">British GQ</a></p>
+        <p><a href="https://www.vogue.fr/defiles">Vogue Paris Défilés</a></p>
         <h3 id="real-time-shock-wave-simulation">real-time shock wave simulation 💥</h3>
-        <p>My research project in the final year of my degree was around simulating shock waves in real time using the Unity game engine. This was largely considered to be a failure.</p>
+        <p>My research project in the final year of my degree was around simulating shock waves in real time using the Unity game engine. This project was largely considered to be a failure. You can read more about it in the <a href="https://drive.google.com/file/d/1dPqoEMLLgfVp1GoaMR64fziYLpqxvOWr/view?usp=sharing">Technical Report doc</a>.</p>
         <h3 id="web-marketing-sites-at-feral-interactive">web marketing sites at Feral Interactive</h3>
         <ul>
           <li><a href="https://www.feralinteractive.com/en/games/lifeisstrange/">Life Is Strange for Mac and Linux</a></li>
@@ -87,15 +90,23 @@ export default function Home() {
         a:visited {
           color: inherit;
           text-decoration: none;
+        }
+
+        a {
           background-color: #ffaab6;
           box-shadow: 0 -0.1rem #ffaab6, 0 0.2rem #000;
+        }
+
+        a:hover {
+          background-color: #ff9aa8;
+          box-shadow: 0 -0.1rem #ff9aa8, 0 0.2rem #000;
         }
 
         a:focus {
           outline-width: 4px;
           outline-style: solid;
           background-color: #ffdd00;
-          box-shadow: none;
+          box-shadow: 0 -0.2rem #ffdd00, 0 0.2rem #ffdd00;
         }
 
         p,
