@@ -98,13 +98,14 @@ export default function Home() {
           box-shadow: none;
         }
 
-        p {
+        p,
+        li {
           line-height: 1.6;
         }
 
         li {
-          margin-top: 0.9em;
-          margin-bottom: 0.9em;
+          margin-top: 0.5em;
+          margin-bottom: 0.5em;
         }
 
         h2 {
