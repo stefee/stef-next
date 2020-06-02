@@ -10,7 +10,8 @@ export default function Home() {
       <h1>Stef's Website 🦖</h1>
 
       <main>
-        <p>Welcome! 👋</p>
+        <p>Welcome!</p>
+        <p>You can email me at <a href="mailto:stef@srilq.email">stef@srilq.email</a>.</p>
         <h2 id="writing">Writing ✍️</h2>
         <p><a href="https://medium.com/condenastengineering/speedy-builds-with-docker-layer-caching-7ed590ac2fd1">Speedy builds with Docker Layer Caching</a></p>
         <h2 id="talks">Talks 🗣</h2>
@@ -71,7 +72,8 @@ export default function Home() {
         }
 
         html {
-          background-color: #ffc0c0;
+          background-color: #ffbbc5;
+          font-size: 1.1rem;
         }
 
         body {
@@ -85,8 +87,8 @@ export default function Home() {
         a:visited {
           color: inherit;
           text-decoration: none;
-          background-color: #ffaaaa;
-          box-shadow: 0 -0.1rem #ffaaaa, 0 0.2rem #000;
+          background-color: #ffaab6;
+          box-shadow: 0 -0.1rem #ffaab6, 0 0.2rem #000;
         }
 
         a:focus {
