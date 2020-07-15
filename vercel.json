@@ -2,7 +2,7 @@
   "version": 2,
   "public": true,
   "regions": ["lhr1"],
-  "routes": [
+  "rewrites": [
     { "src": "/static/(.*)", "dest": "/static/$1" },
     { "src": "/favicon.ico", "dest": "/static/favicon.ico" },
     { "src": "/robots.txt", "dest": "/static/robots.txt" },
