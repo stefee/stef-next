@@ -24,6 +24,7 @@ export default function Home() {
           <li><a href="https://github.com/renditions/get-sizes">@renditions/get-sizes</a></li>
           <li><a href="https://github.com/renditions/get-srcset">@renditions/get-srcset</a></li>
           <li><a href="https://github.com/renditions/react-img">@renditions/react-img</a></li>
+          <li><a href="https://github.com/renditions/react-picture-source">@renditions/react-picture-source</a></li>
         </ul>
         <p><a href="https://renditions.dev/project">Project board</a></p>
         <h3 id="letter-press"><em>letter-press</em></h3>
