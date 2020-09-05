@@ -13,7 +13,7 @@ export default function Home() {
         <p>Welcome!</p>
         <p>You can email me at <a href="mailto:stef@srilq.email">stef@srilq.email</a>.</p>
         <h2 id="writing">Writing ✍️</h2>
-        <p><a href="https://medium.com/condenastengineering/speedy-builds-with-docker-layer-caching-7ed590ac2fd1">Speedy builds with Docker Layer Caching</a></p>
+        <p><a href="https://dev.to/stefee/speedy-builds-with-docker-layer-caching-4fae">Speedy builds with Docker Layer Caching</a></p>
         <h2 id="talks">Talks 🗣</h2>
         <p><a href="https://www.youtube.com/watch?v=AwfXypdYcv0">5 Things I Learned About Software Engineering From Watching Art Restoration Videos</a></p>
         <h2 id="software-projects">Software Projects 🌱</h2>
