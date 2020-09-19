@@ -39,7 +39,7 @@ export default function Home() {
         <p><em>Flyway</em> is a system for migrating content from an existing CMS into Condé Nast's CMS. Content can be defined as articles, authors, categories, galleries, videos and images.</p>
         <p>We implemented a "self-service" model to allow engineers to migrate content into our CMS without any intervention from the core team.</p>
         <p>This system was used to migrate <em>Vogue</em> and <em>GQ</em> websites managed by 10 different market teams onto our web platform managed in London.</p>
-        <p><a href="https://stefee.github.io/flyway-manual">Flyway Manual (mirror)</a></p>
+        <p><a href="https://web.archive.org/web/20200919173414/https://conde-nast-international.gitbook.io/flyway-docs/">Flyway Manual (archive)</a></p>
         <h3 id="design-systems-at-conde-nast">design systems at Condé Nast</h3>
         <p>&ldquo;A unified, scalable, digital design language for Condé Nast brands.&rdquo;</p>
         <p><em>Atelier</em> is a React <a href="https://github.com/styled-components/styled-components">styled-components</a> library created for Condé Nast's brand sites. The library supports multiple brand identities and is used by a handful of different web applications.</p>
