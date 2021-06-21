@@ -33,8 +33,8 @@ export default function Home() {
         <p><a href="https://github.com/stefee/letter-press">Source</a></p>
         <h3 id="outerspace"><em>outerspace</em></h3>
         <p>Preserve whitespace surrounding expressions in a template string.</p>
-        <p><a href="https://www.npmjs.com/package/outerspace">Package</a></p>
-        <p><a href="https://github.com/stefee/outerspace">Source</a></p>
+        <p><a href="https://github.com/stefee/outerspace">JavaScript Source</a></p>
+        <p><a href="https://github.com/stefee/outerspace-rs">Rust Source</a></p>
         <h3 id="content-migrations-at-conde-nast">content migrations at Condé Nast</h3>
         <p><em>Flyway</em> is a system for migrating content from an existing CMS into Condé Nast's CMS. Content can be defined as articles, authors, categories, galleries, videos and images.</p>
         <p>We implemented a "self-service" model to allow engineers to migrate content into our CMS without any intervention from the core team.</p>
@@ -76,7 +76,7 @@ export default function Home() {
         }
 
         html {
-          background-color: #ffbbc5;
+          background-color: #ffe5eb;
           font-size: 1.1rem;
         }
 
@@ -94,13 +94,8 @@ export default function Home() {
         }
 
         a {
-          background-color: #ffaab6;
-          box-shadow: 0 -0.1rem #ffaab6, 0 0.2rem #000;
-        }
-
-        a:hover {
-          background-color: #ff9aa8;
-          box-shadow: 0 -0.1rem #ff9aa8, 0 0.2rem #000;
+          background-color: #ffb6c7;
+          box-shadow: 0 -0.1rem #ffb6c7, 0 0.2rem #000;
         }
 
         a:focus {
