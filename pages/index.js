@@ -54,9 +54,7 @@ export default function Home() {
           <li><a href="https://www.feralinteractive.com/en/games/alienisolation/">Alien: Isolation for Mac and Linux</a></li>
           <li><a href="https://www.feralinteractive.com/en/linux-games/f12015/">F1 2015 for Linux</a></li>
           <li><a href="https://www.feralinteractive.com/en/games/dirtrally/">DiRT Rally for Mac and Linux</a></li>
-          <li><a href="https://www.feralinteractive.com/en/games/madmax/">Mad Max for Mac and Linux</a></li>
           <li><a href="https://www.feralinteractive.com/en/games/companyofheroes2/">Company of Heroes 2 for Mac and Linux</a></li>
-          <li><a href="https://www.feralinteractive.com/en/games/gridautosport/">GRID Autosport for Mac and Linux</a></li>
           <li><a href="https://www.feralinteractive.com/en/mac-games/medieval2/">Medieval II: Total War for Mac</a></li>
         </ul>
       </main>
